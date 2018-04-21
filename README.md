@@ -1,1 +1,1 @@
-# dojogit V0.1.0
+# Simplest ERP Ever v1.0.0
